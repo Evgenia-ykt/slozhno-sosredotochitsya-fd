@@ -289,9 +289,6 @@
   height: fit-content;
 }
 
-.title-decor {
-  background-color: var(--accent-color);
-}
 
 .text-block_text {
   font-family: var(--main-font-family);
