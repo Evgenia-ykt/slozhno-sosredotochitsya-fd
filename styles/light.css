@@ -32,10 +32,9 @@
  --accent-color-text: #353430;
   --main-gap: 10px;
   --text-color: #353430;
---button-hover: 1px solid rgba(50, 49, 45, 0.4); 
- } 
- }
-
+--button-hover: 1px solid rgba(50, 49, 45, 0.4);
+}
+}
  
 
   /* сохраните этот селектор в приведённом виде.
